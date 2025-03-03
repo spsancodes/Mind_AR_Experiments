@@ -1,4 +1,9 @@
-<<<<<<< HEAD
+# WebAR Experiment for OLabs  
+
+## Demo Video  
+[Watch the Video](https://drive.google.com/file/d/1Wfm-NOINuB0eAEoGixyq7OgRUFwc6Nzk/view?usp=drive_link)  
+MindAR Voice-Controlled AR Model  
+
 # WebAR Experiment for OLabs  
 
 ## Project Background  
@@ -91,11 +96,3 @@ Here are some **screenshots** showcasing the WebAR framework in action:
    ```sh
    git clone https://github.com/spsancodes/Mind_AR_Experiments
    cd Mind_AR_Experiments
-=======
-# Mind_AR_Experiments
-
-## Demo Video
-[Watch the Video] (https://drive.google.com/file/d/1Wfm-NOINuB0eAEoGixyq7OgRUFwc6Nzk/view?usp=drive_link)
-MindAR Voice-Controlled AR Model
-
->>>>>>> 01c001e1cfbfc459c39c305391c7fb86181828df
