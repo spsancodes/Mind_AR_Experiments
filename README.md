@@ -79,8 +79,7 @@ Despite these challenges, we successfully built a **WebAR-based modular framewor
 
 Here are some **screenshots** showcasing the WebAR framework in action:  
 
-| Feature | Screenshot |
-|---------|------------|
+
 | 
 | **Surface Detection in Action** | ![Surface Detection](/images/AR%20(1).png) |
 | **QR Code Scanning for Experiment Loading** | ![QR Code Scan](/images/QRCode.png) |
