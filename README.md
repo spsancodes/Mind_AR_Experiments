@@ -32,6 +32,25 @@ Despite these challenges, we successfully built a **WebAR-based modular framewor
 ⚡ **Performance optimized** – Efficient rendering and resource management for smooth AR experiences.  
 🌍 **Cross-platform compatibility** – Works on mobile, tablets, and AR/VR headsets with WebXR support.  
 
+## Hosting & Local Development  
+
+### Running a Local Server with Python  
+To test WebXR applications locally, we used Python’s built-in HTTP server to host the files.  
+Run the following command in your project directory:  
+
+**python -m http.server 8000**
+
+This starts a simple HTTP server on localhost:8000. You can then access your project in a browser at:
+
+**http://localhost:8000**
+
+## Using ngrok for Public Access
+Since localhost is only accessible on your device, we used ngrok to create a public URL for testing WebXR on mobile devices.
+
+Get the public URL from the ngrok output and open it on your mobile device or share it with teammates for remote testing.
+
+
+
 
 ## Scalability & Future Expansion  
 
@@ -48,6 +67,7 @@ Despite these challenges, we successfully built a **WebAR-based modular framewor
 - Provides a full immersive experience for high-end devices.  
 
 ---
+
 
 ## Technologies Used  
 - **WebXR** – Enables immersive AR/VR capabilities in the browser.  
@@ -85,3 +105,17 @@ Here are some **screenshots** showcasing the WebAR framework in action:
    ```sh
    git clone https://github.com/spsancodes/Mind_AR_Experiments
    cd Mind_AR_Experiments
+
+## Acknowledgments 🙌
+Would like thank the following individuals and resources for their valuable contributions:  
+
+👨‍💻 **[Teammate 1](https://github.com/Garudan014)**
+👨‍💻 **[Teammate 2](https://github.com/Yadi-codes)**
+👨‍💻 **[Teammate 3](https://github.com/)**
+
+### Miscelleneous
+**Mentors in the Hackathon**
+**University Advisors**
+**(https://github.com/LoneWolf4713)**
+
+
