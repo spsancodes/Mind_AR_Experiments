@@ -114,8 +114,8 @@ Would like thank the following individuals and resources for their valuable cont
 👨‍💻 **[Teammate 3](https://github.com/)**
 
 ### Miscelleneous
-**Mentors in the Hackathon**
-**University Advisors**
-**(https://github.com/LoneWolf4713)**
+|**Mentors in the Hackathon**|
+|**University Advisors**|
+|**[Mr. Pratyaksh](https://github.com/LoneWolf4713)**|
 
 
