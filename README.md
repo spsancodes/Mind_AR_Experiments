@@ -109,13 +109,13 @@ Here are some **screenshots** showcasing the WebAR framework in action:
 ## Acknowledgments 🙌
 Would like thank the following individuals and resources for their valuable contributions:  
 
-👨‍💻 **[Teammate 1](https://github.com/Garudan014)**
-👨‍💻 **[Teammate 2](https://github.com/Yadi-codes)**
-👨‍💻 **[Teammate 3](https://github.com/)**
+- 👨‍💻 **[Teammate 1](https://github.com/Garudan014)**
+- 👨‍💻 **[Teammate 2](https://github.com/Yadi-codes)**
+- 👨‍💻 **[Teammate 3](https://github.com/)**
 
 ### Miscelleneous
-|**Mentors in the Hackathon**|
-|**University Advisors**|
-|**[Mr. Pratyaksh](https://github.com/LoneWolf4713)**|
+- |**Mentors in the Hackathon**|
+- |**University Advisors and professors**|
+- |**[Mr. Pratyaksh](https://github.com/LoneWolf4713)**|
 
 
