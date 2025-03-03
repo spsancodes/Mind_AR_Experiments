@@ -80,14 +80,17 @@ Despite these challenges, we successfully built a **WebAR-based modular framewor
 Here are some **screenshots** showcasing the WebAR framework in action:  
 
 
-| 
-| **Surface Detection in Action** | ![Surface Detection](/images/AR%20(1).png) |
-| **QR Code Scanning for Experiment Loading** | ![QR Code Scan](/images/QRCode.png) |
-| 
-| **AR Object Interaction - Prism & Refraction** | ![Prism](/images/prism1.png) |
-| ![Prism](/images/prism2.png) |
-| ![Prism](/images/prism3.png) |
-|
+## Augumented Reality
+
+ ![Surface Detection](/images/AR%20(1).png) 
+ ![QR Code Scan](/images/QRCode.png) 
+
+ ## Prism Model
+
+ ![Prism](/images/prism1.png) 
+ ![Prism](/images/prism2.png) 
+ ![Prism](/images/prism3.png) 
+
 
 ## Setup Instructions  
 
