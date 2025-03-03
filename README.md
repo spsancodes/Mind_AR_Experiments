@@ -12,8 +12,7 @@ This project was initiated as part of the **OLabs Hackathon**, where our team se
 ### Motivation  
 Traditional online lab simulations often lack **hands-on interaction**, making it difficult for students to visualize real-world applications. Our team saw an opportunity to bridge this gap using **Augmented Reality (AR)**. By integrating WebXR, we aimed to create **an accessible, modular, and reusable WebAR framework** for OLabs experiments.  
 
-### Challenges Faced  
-🔍 **Getting WebXR to work properly** – Initially, setting up a functional WebXR environment for mobile browsers was tricky. We had to test different configurations to ensure smooth performance.  
+### Challenges Faced   
 📌 **Surface detection & object placement** – Implementing accurate AR object placement took trial and error, especially for realistic refraction simulations.  
 🖼️ **Image tracking issues** – We faced difficulties with image recognition but plan to refine it further for better experiment interaction.  
 ⚡ **Performance optimization** – Ensuring smooth rendering while keeping AR interactions fluid required balancing resource usage and loading times.  
@@ -44,21 +43,9 @@ Despite these challenges, we successfully built a **WebAR-based modular framewor
 - Implementing voice commands and instructions in **multiple languages**.  
 - Expands accessibility for students across different regions.  
 
-🔗 **Integration with Learning Management Systems (LMS)**  
-- Seamless integration with **Google Classroom, Moodle, and Blackboard**.  
-- Auto-generates experiment reports for teachers and students.  
-
 🖥️ **PC & AR Headset Support**  
 - Expanding compatibility with **HoloLens, Oculus Quest, and AR glasses**.  
 - Provides a full immersive experience for high-end devices.  
-
-🔬 **AI-Powered Experiment Analysis**  
-- AI-driven insights to **predict errors in experiments** and suggest improvements.  
-- Virtual teaching assistant to answer student queries in real-time.  
-
-🚀 **Open-Source Contribution & Community-Driven Expansion**  
-- Encouraging developers and educators to contribute and create new features.  
-- Making it a global platform for WebAR-based science education.  
 
 ---
 
